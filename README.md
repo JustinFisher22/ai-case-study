@@ -13,3 +13,5 @@ When doing my research I could not find how they secured their funding in the be
 
 ## Business Activities
 The company is trying to solve the problem of humans and businesses doing repetitive tasks by replacing it with a software that can automate and stremaline those processes. This allows people to focus more on other difficult tasks and boosts productivity within the company.
+
+UiPath appeals to customers accross a wide variety of industries as their software is capable of a lot of different things. On UiPath's website under "solutions" they break it down by industry, department, and technology. The industries they serve consist of banking & financial services, customer experience, healthcare, high tech, insurance, life sceiences, public sectors, manufacturing, retail, and telecom. If you take just health care and banking from the industries they serve, both of them combined have almost a $3 trillion market size. A market size like this provides UiPath with endless opportunites and they serve many more industries outside of just banking and healthcare. 
