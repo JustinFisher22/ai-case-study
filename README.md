@@ -39,9 +39,7 @@ It is hard to advise UiPath on what they should do because they're already doing
 
 Offering this innovative service to their already existing software could give them the ability to expand into new markets. Expanding into new markets and becoming usable by more industries would increase their profits as well as their market share in the software industry. It could also open up new partnerships with companies like Adobe. 
 
-It would utilize their already existing IPA and RPA technologies that utilize Ai to learn from a human user by watching their computer and tracking keyboard and mouse movements while completing a task. 
-
-These technologies would be necessary because I am using some of their already existing software just making it have more advanced capabilities so that it can expand into more advanced and time-consuming tasks. 
+It would utilize their already existing IPA and RPA technologies that utilize Ai to learn from a human user by watching their computer and tracking keyboard and mouse movements while completing a task. These technologies would be necessary because I am using some of their already existing software just making it have more advanced capabilities so that it can expand into more advanced and time-consuming tasks. 
 
 ## Sources
 https://www.uipath.com/platform/discover/task-mining https://www.automationanywhere.com/solutions https://www.uipath.com/ https://www.uipath.com/rpa/robotic-process-automation https://www.uipath.com/blog/rpa/the-evolution-of-rpa-past-present-and-future https://www.linkedin.com/advice/3/what-most-significant-software-development-trends-innovations-qjttc https://www.uipath.com/hubfs/idceconomicimpact.pdf 
