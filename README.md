@@ -32,4 +32,13 @@ UiPath has had quite the business impact since it took off, their RPA technology
 
 In the field of software, a company can measure its success based on how many licenses they are granting and the overall customer satisfaction. Software has performance metrics that they can use to measure the success and overall user satisfaction, factors that could be looked at are load time, error rates, user-friendliness, etc... Software companies also measure the customer lifetime value(CLV) this is another indicator that ties in with customer satisfaction. If businesses aren't renewing their licenses and have a high turnover rate with your product chances are something is wrong with it and it is lacking somewhere.
 
-When conducting research for a prior question in this assignment I found that UiPath is outperforming and number one compared to its direct competitors within its field, the next company was Automation Anywhere. The technology that UiPath gives it an edge over its competitors and has allowed it to become number one in RPA software. 
+When conducting research for a prior question in this assignment I found that UiPath is outperforming and number one compared to its direct competitors within its field, the next company was Automation Anywhere. The technology that UiPath gives it an edge over its competitors and has allowed it to become number one in RPA software.
+
+## Recommendations
+It is hard to advise UiPath on what they should do because they're already doing things you would think could only live in your imagination. I guess one thing that would be cool is if they could advance their process and task-mining technology to learn more advanced tasks. I use Premiere Pro for video editing and it would be cool if it could learn my specific style of editing for videos and the process I go through. After learning it would be cool to share with my co-workers who have no experience in that area so that they could still complete the tasks if I was sick or if I left the marketing department(I did leave). It would also be cool for graphic design to speed up the process even when I am doing my basic things and getting started on a design.
+
+Offering this innovative service to their already existing software could give them the ability to expand into new markets. Expanding into new markets and becoming usable by more industries would increase their profits as well as their market share in the software industry. It could also open up new partnerships with companies like Adobe. 
+
+It would utilize their already existing IPA and RPA technologies that utilize Ai to learn from a human user by watching their computer and tracking keyboard and mouse movements while completing a task. 
+
+These technologies would be necessary because I am using some of their already existing software just making it have more advanced capabilities so that it can expand into more advanced and time-consuming tasks. 
